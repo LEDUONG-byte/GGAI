@@ -1,0 +1,10 @@
+accounts.txt
+*.txt
+!requirements.txt
+ultra0-report/
+reports/
+*.png
+__pycache__/
+.DS_Store
+.vscode/
+*.log
